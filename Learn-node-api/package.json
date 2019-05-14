@@ -1,0 +1,19 @@
+{
+  "name": "learn-node-api",
+  "version": "1.0.0",
+  "description": "learn node api developement",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "node-api"
+  ],
+  "author": "ashwani sekhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.19.0"
+  }
+}
